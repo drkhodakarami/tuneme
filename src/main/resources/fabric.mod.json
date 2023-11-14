@@ -8,8 +8,8 @@
     "Me!"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://modrinth.com/mod/tune-me",
+    "sources": "https://github.com/drkhodakarami/tuneme"
   },
   "license": "MIT",
   "icon": "assets/tuneme/icon.png",

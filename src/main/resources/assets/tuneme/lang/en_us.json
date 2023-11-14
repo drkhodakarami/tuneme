@@ -1,0 +1,6 @@
+{
+  "item.tuneme.tuner": "Tuner",
+  "tuneme.tooltip": "Bound to position : (%d, %d, %d) - %d",
+  "tuneme.teleported": "Teleported to : (%d, %d, %d) - %d",
+  "tuneme.error": "Wrong dimension, your tuner bound to %d"
+}
